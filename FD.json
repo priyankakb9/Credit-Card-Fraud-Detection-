@@ -1,0 +1,38 @@
+{
+  "name": "Fraud Detection Dark Theme",
+  "dataColors": [
+    "#FF4C4C",
+    "#4CAF50",
+    "#FFA500",
+    "#1E90FF",
+    "#FFFFFF"
+  ],
+  "background": "#000000",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#1E90FF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "fontFamily": "Segoe UI",
+            "fontSize": 12
+          }
+        ],
+        "legend": [
+          {
+            "titleColor": { "solid": { "color": "#FFFFFF" } },
+            "labelColor": { "solid": { "color": "#FFFFFF" } }
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}
